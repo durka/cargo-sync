@@ -1,0 +1,4 @@
+[root]
+name = "cargo-sync"
+version = "0.1.0"
+
